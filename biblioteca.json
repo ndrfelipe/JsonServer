@@ -1,0 +1,154 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Aventura"
+    },
+    {
+      "id": 5,
+      "nome": "Horror"
+    },
+    {
+      "id": 6,
+      "nome": "Thriller"
+    },
+    {
+      "id": 7,
+      "nome": "Romance"
+    },
+    {
+      "id": 8,
+      "nome": "Artigo"
+    },
+    {
+      "id": 9,
+      "nome": "Científico"
+    },
+    {
+      "id": 10,
+      "nome": "Terror"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J. K. Rolling",
+      "anoPublicacao": 2005,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 4,
+      "id": 4
+    },
+    {
+      "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+      "autor": "J. K. Rolling",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2,
+      "id": 5
+    },
+    {
+      "titulo": "Harry Potter e o Enigma do Príncipe",
+      "autor": "J. K. Rolling",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 4,
+      "id": 6
+    },
+    {
+      "titulo": "Sapiens",
+      "autor": "Yuval Harari",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 7
+    },
+    {
+      "titulo": "Homo Deus",
+      "autor": "Yuval Harari",
+      "anoPublicacao": 1937,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 8
+    },
+    {
+      "titulo": "21 Lições para o Século 21",
+      "autor": "Yuval Harari",
+      "anoPublicacao": 1996,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 9
+    },
+    {
+      "titulo": "O diário de Annie Frank",
+      "autor": "Annie Frank",
+      "anoPublicacao": 1996,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 10
+    },
+    {
+      "titulo": "A Fúria dos Reis",
+      "autor": "George R. R. Martin",
+      "anoPublicacao": 1996,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": true,
+      "categoriaId": 4,
+      "id": 11
+    },
+    {
+      "titulo": "O Festim dos Corvos",
+      "autor": "George R. R. Martin",
+      "anoPublicacao": 1996,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 6,
+      "id": 12
+    }
+  ]
+}
